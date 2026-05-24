@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap');
+
+body{
+    background-color: #084C61;
+}
+
+p{
+    color: aliceblue;
+}
+
+header>h1{
+    color: #fcfaf9;
+    background: #FF7221;
+    font-family: Hammersmith One;
+    text-transform: uppercase;
+
+}
+
+a{
+    color: #e7ecee;
+}
+
+article>h2{
+    color: blanchedalmond;
+}
+
+article>ol{
+    color: aliceblue;
+}
+
+footer{
+    background-color:#084C61 ;
+    color: aliceblue;
+    text-align: center;
+}
