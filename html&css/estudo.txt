@@ -1,0 +1,7 @@
+Verificar como estudo:
+1. Pseudo-classe;
+2. pseudo-elemento;
+3. seletores;
+4. vincular mídias;
+5. importar textos;
+6.reforçar conceitos de caixas/box model
